@@ -96,7 +96,7 @@ INSERT INTO orders VALUES
 ## 🎯 Practice Questions
 
 ### Basic SELECT Statements
-- [ ] 1. Write a query to select all columns from the employees table.
+- [X] 1. Write a query to select all columns from the employees table.
 - [ ] 2. Select only the first_name and last_name from employees.
 - [ ] 3. Select all employees from department_id = 1.
 - [ ] 4. Find all employees with salary greater than 50000.
