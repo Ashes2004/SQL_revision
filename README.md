@@ -98,7 +98,7 @@ INSERT INTO orders VALUES
 ### Basic SELECT Statements
 - [X] 1. Write a query to select all columns from the employees table.
 - [X] 2. Select only the first_name and last_name from employees.
-- [ ] 3. Select all employees from department_id = 1.
+- [X] 3. Select all employees from department_id = 1.
 - [ ] 4. Find all employees with salary greater than 50000.
 - [ ] 5. Select employees hired after '2020-01-01'.
 
